@@ -4,7 +4,7 @@ Sanbercode QA Bootcamp Group 11
 
 URL to Test: https://opensource-demo.orangehrmlive.com/
 
-Test Case: https://docs.google.com/spreadsheets/d/1dg0yBlrxGl52tRLEUAgH-GTkFb_37NA3N3s1b9JrbG0/edit#gid=1123176548
+Test Case: https://docs.google.com/spreadsheets/d/1vqx2Sh8tdbbXpf9mB4x-KelBdSDOSV9jmg0e2zcy-As/edit#gid=599666152
 
 Automation Used:
 - Selenium
